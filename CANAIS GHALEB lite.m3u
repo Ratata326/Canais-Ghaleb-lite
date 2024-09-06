@@ -87,3 +87,5 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 https://stmv7.samcast.com.br/eduardo5379/eduardo5379/playlist.m3u8
 #EXTINF:0,CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:0,TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
