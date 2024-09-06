@@ -5,8 +5,8 @@ https://stmv1.paineltv.net/suatvsjc/suatvsjc/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:0,Anime Tv
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:0,Sbt Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0,SBT
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:0,Record Tv
 https://tvconquistalrv.duckdns.org/hls/tvconquistalrv.m3u8
 #EXTINF:0,Tv Pampa
@@ -78,4 +78,12 @@ https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 #EXTINF:0,Conect Tv
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:0,Tv Clássicos
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:0,BSTV
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
+#EXTINF:0,CNN BRASIL
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:0,Tv Cei
+https://stmv7.samcast.com.br/eduardo5379/eduardo5379/playlist.m3u8
+#EXTINF:0,CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
