@@ -3,7 +3,7 @@
 https://stmv1.paineltv.net/suatvsjc/suatvsjc/playlist.m3u8
 #EXTINF:0 logo=http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png ,Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:0,Anime Tv
+#EXTINF:0 logo=https://i.imgur.com/MuCJvAd.png ,Anime Tv
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:0 logo=https://i.imgur.com/srURmsi.png ,SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -17,13 +17,13 @@ https://canal.cdntv.com.br/live/robert123/robert123/88.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:0,Tv Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:0,Clouding Tv
+#EXTINF:0 logo=https://imgur.com/a/QIqy7rP.png ,Clouding Tv
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:0,AniTv
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0,Tv Osório News
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-#EXTINF:0,Tv Mon
+#EXTINF:0 logo=https://i.imgur.com/wPhNMMS.png ,Tv Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:0 logo=https://i.imgur.com/sMcdkLt.png ,Animax
 https://stream.ichibantv.com:3547/stream/play.m3u8
@@ -31,7 +31,7 @@ https://stream.ichibantv.com:3547/stream/play.m3u8
 https://stmv4.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:0,Tv Clássicos
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:0,GLN Tv
+#EXTINF:0 logo=https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png ,GLN Tv
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:0 logo=https://i.imgur.com/sqUlcaY.png ,Jetsons Tv
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
