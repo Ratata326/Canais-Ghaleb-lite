@@ -1,47 +1,47 @@
 =====[ Canais ]=====
-#EXTINF:0 logo=https://imgur.com/a/pG3TG6l.png     group-title="Filmes",Sua Tv
+#EXTINF:0 tvg-logo="https://imgur.com/a/pG3TG6l.png"     group-title="Filmes",Sua Tv
 https://stmv1.paineltv.net/suatvsjc/suatvsjc/playlist.m3u8
-#EXTINF:0 logo=http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png     group-title="Desenhos",Retro Cartoon
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7b0be1e3ddbc37ae133fd52e75a94fe0.png"     group-title="Desenhos",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/MuCJvAd.png     group-title="Desenhos",Anime Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/MuCJvAd.png"     group-title="Desenhos",Anime Tv
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/srURmsi.png     group-title="Abertos",SBT
+#EXTINF:0 tvg-logo="https://i.imgur.com/srURmsi.png"     group-title="Abertos",SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/RDekR7e.png     group-title="Abertos",Record Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/RDekR7e.png"     group-title="Abertos",Record Tv
 https://tvconquistalrv.duckdns.org/hls/tvconquistalrv.m3u8
-#EXTINF:0 logo=https://imgur.com/a/ZlbQuiL.png     group-title="Abertos",Tv Pampa
+#EXTINF:0 tvg-logo="https://imgur.com/a/ZlbQuiL.png"     group-title="Abertos",Tv Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/b92nQTD.png     group-title="Abertos",Band
+#EXTINF:0 tvg-logo="https://i.imgur.com/b92nQTD.png"     group-title="Abertos",Band
 https://canal.cdntv.com.br/live/robert123/robert123/88.m3u8
 #EXTINF:0group-title="Desenhos",Loading Tv
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:0group-title="Abertos",Tv Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:0 logo=https://imgur.com/a/QIqy7rP.png     group-title="Desenhos",Clouding Tv
+#EXTINF:0 tvg-logo="https://imgur.com/a/QIqy7rP.png"     group-title="Desenhos",Clouding Tv
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:0group-title="Desenhos",AniTv
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0group-title="Abertos",Tv Osório News
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/wPhNMMS.png   group-title="Abertos",Tv Mon
+#EXTINF:0 tvg-logo="https://i.imgur.com/wPhNMMS.png"   group-title="Abertos",Tv Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/sMcdkLt.png     group-title="Desenhos",Animax
+#EXTINF:0 tvg-logo="https://i.imgur.com/sMcdkLt.png"     group-title="Desenhos",Animax
 https://stream.ichibantv.com:3547/stream/play.m3u8
 #EXTINF:0group-title="Desenhos",Multi Canais
 https://stmv4.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:0group-title="Desenhos",Tv Clássicos
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:0 logo=https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png     group-title="Desenhos",GLN Tv
+#EXTINF:0 tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png"     group-title="Desenhos",GLN Tv
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/sqUlcaY.png     group-title="Desenhos",Jetsons Tv
+#EXTINF:0 tvg-logo="https://i.imgur.com/sqUlcaY.png"     group-title="Desenhos",Jetsons Tv
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:0 logo=https://imgur.com/a/UPHb2mh.png     group-title="Desenhos",Play Tv
+#EXTINF:0 tvg-logo="https://imgur.com/a/UPHb2mh.png"     group-title="Desenhos",Play Tv
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 #EXTINF:0group-title="Abertos",Rede Mundo Tv
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
 #EXTINF:0group-title="Abertos",REDE CNT PORTO ALEGRE
 https://cloudflare.cdn.spalla.io/live/28496f6e-83f6-4167-943b-8bdad7991bb5/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcyNTU4NDE4MCwiaWF0IjoxNzI0OTc5MzgwLCJpZCI6IjAxOTE5YjUxLWFlOGYtNzliNS04NTkzLTZlMzZmNmExYzllZSIsIm5iZiI6MTcyNDk3NzU4MCwicmF1IjpbXSwidWlkIjoiMDE5MTliNTEtYWU4Zi03OWI1LTg1OTMtNmUzNmY2YTFjOWVlIiwidXJpX3N1YiI6Ii8yODQ5NmY2ZS04M2Y2LTQxNjctOTQzYi04YmRhZDc5OTFiYjUvIn0.Jtv46HhDzhRuEqgGeDcgLqW6XCbJrktfUnnuLAcK3bc&uid=01919b51-ae8f-79b5-8593-6e36f6a1c9ee&magica=sim
-#EXTINF:0 logo=https://imgur.com/a/AbRB08g.png     group-title="Desenhos",Teleweb
+#EXTINF:0 tvg-logo="https://imgur.com/a/AbRB08g.png"     group-title="Desenhos",Teleweb
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF:0group-title="Desenhos",Wording Televisão
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
@@ -51,9 +51,9 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://stmv1.samcast.com.br/enei9364/enei9364/playlist.m3u8
 #EXTINF:0group-title="Desenhos",CAMPOS WEB TV
 https://tv.rbstream.com.br/joseroberto9307/joseroberto9307/chunklist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/rXEBYmC.png     group-title="Desenhos",AWTV
+#EXTINF:0 tvg-logo="https://i.imgur.com/rXEBYmC.png"     group-title="Desenhos",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:0 logo=https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png     group-title="Desenhos",Tv Kids Mais
+#EXTINF:0 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png"     group-title="Desenhos",Tv Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:0group-title="Desenhos",Blits Tv
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
@@ -79,15 +79,15 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:0group-title="Desenhos",BSTV
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
-#EXTINF:0 logo=https://i.imgur.com/5AK7gLc.png   group-title="Abertos"  ,CNN BRASIL
+#EXTINF:0 tvg-logo="https://i.imgur.com/5AK7gLc.png"   group-title="Abertos"  ,CNN BRASIL
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 group-title="Filmes",Tv Cei
 https://stmv8.samcast.com.br/liamara1531/liamara1531/playlist.m3u8
 #EXTINF:0group-title="Desenhos",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:0 logo=https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg    group-title="Abertos",TVE RS
+#EXTINF:0 tvglogo="https://pbs.twimg.com/profile_images/927523078690787328/cY2qU7jK_400x400.jpg"    group-title="Abertos",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0 logo=https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png   group-title="Desenhos",TV R
+#EXTINF:0 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_CERTP_PNG__MOAFOfq.png"   group-title="Desenhos",TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0group-title="Desenhos",BSTV
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
